@@ -8,11 +8,6 @@
   grid-template-columns: 1fr 1fr;
   gap: 0 px 40px;
   max-width: 1200px;
-  box-sizing: border-box;
-  padding-left: 20px;
-  padding-right: 20px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .introducao-conteudo {
@@ -22,8 +17,8 @@
 
 .introducao img {
   height: 100%;
+  width: 100%;
   object-fit: cover;
-  margin-bottom: -120px;
   border-radius: 4px;
 }
 
