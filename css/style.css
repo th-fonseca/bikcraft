@@ -10,6 +10,7 @@
 /* homepage do site */
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
+@import "./home/parceiros.css";
 
 /* Lista de Bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
